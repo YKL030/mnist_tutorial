@@ -1,0 +1,2 @@
+logis_reg_demo.py,Bernoulli_demo.py,LinearSVC_demo.py,SVC_demo.py用来完成numpy_matplotlib_sklearn.ipynb的空白
+并且Sklearn_tutorial_demo.ipynb是集成的notebook，demo_pytorch.py是选做的完成pytorch.ipynb中的空白.
